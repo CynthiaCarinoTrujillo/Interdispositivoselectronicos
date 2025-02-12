@@ -18,5 +18,7 @@ public class Main {
         compuUno.encender();
         compuUno.apagar();
         compuUno.reiniciar();
+        
+        //
     }
 }
